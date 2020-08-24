@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode_no17_电话号码的字母组合_w1", "leetcode_no17_电话号码的字母组合_w1.vcxproj", "{7BABC140-A0B5-48CF-9B0F-050EFCF138EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BABC140-A0B5-48CF-9B0F-050EFCF138EC}.Debug|x64.ActiveCfg = Debug|x64
+		{7BABC140-A0B5-48CF-9B0F-050EFCF138EC}.Debug|x64.Build.0 = Debug|x64
+		{7BABC140-A0B5-48CF-9B0F-050EFCF138EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{7BABC140-A0B5-48CF-9B0F-050EFCF138EC}.Debug|x86.Build.0 = Debug|Win32
+		{7BABC140-A0B5-48CF-9B0F-050EFCF138EC}.Release|x64.ActiveCfg = Release|x64
+		{7BABC140-A0B5-48CF-9B0F-050EFCF138EC}.Release|x64.Build.0 = Release|x64
+		{7BABC140-A0B5-48CF-9B0F-050EFCF138EC}.Release|x86.ActiveCfg = Release|Win32
+		{7BABC140-A0B5-48CF-9B0F-050EFCF138EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {969DBB8C-BCC2-4006-88CE-AC1DF911076D}
+	EndGlobalSection
+EndGlobal
